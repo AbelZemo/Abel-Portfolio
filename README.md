@@ -37,13 +37,13 @@ step 9 : Done That's it.
 
 # Screenshots:
 
-![1](screenshoots/1.png)
+![1](screenshoots/1.jpg)
 
-![2](screenshoots/2.png)
+![2](screenshoots/2.jpg)
 
-![3](screenshoots/3.png)
+![3](screenshoots/3.jpg)
 
-![4](screenshoots/4.png)
+![4](screenshoots/4.jpg)
 
 
 
