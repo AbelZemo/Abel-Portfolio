@@ -274,6 +274,14 @@ h2 {
 .message {
     margin-top: 1rem;
     font-size: 25px;
+    
+}
+.NoteTaker,
+.PawsClawsandTails{
+    margin-top: 1rem;
+    font-size: 25px;
+    width: 300px;
+    word-wrap: break-word;
 }
 
 /* cards end here */
